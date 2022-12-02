@@ -1,0 +1,46 @@
+﻿body {
+    background-color:lightblue;
+    
+}
+h1 {
+    font-family: 'Agency FB';
+    font-size: 50px;
+    text-align:center;
+}
+img {
+    float:left;
+}
+caja{
+position:relative;
+display:inline-block
+}
+text1{
+position:absolute;
+top:10px;
+left:10%;
+font-family:Georgia, 'Times New Roman';
+font-size:22px;
+color:aqua
+    
+}
+text2 {
+position:absolute;
+top:80px;
+right:10%;
+font-size:16px;
+color:black
+}
+h6{
+text-align:center;
+color:red;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+mami{
+border-right-color:brown;
+}
+baby{
+left:auto
+}
+mama {
+text-align:center;
+}
